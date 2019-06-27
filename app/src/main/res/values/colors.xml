@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#F44336</color>
+    <color name="colorAccent">#323232</color>
+
+
+    <color name="editTextBG">#fff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="textColor">#6e6e6e</color>
+    <color name="colorRegisterBG">#FFFFFF</color>
+
+    <color name="colorTextBlue">#718398</color>
+</resources>

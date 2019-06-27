@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item android:title="Kategoriler">
+            <menu>
+        <item
+            android:id="@+id/category_car"
+            android:icon="@drawable/car"
+            android:title="Araba" />
+        <item
+            android:id="@+id/category_game"
+            android:icon="@drawable/game"
+            android:title="Oyun" />
+        <item
+            android:id="@+id/category_makeup"
+            android:icon="@drawable/makeup"
+            android:title="Makyaj" />
+        <item
+            android:id="@+id/category_computer"
+            android:icon="@drawable/computer"
+            android:title="Bilgisayar" />
+            </menu>
+    </item>
+
+    <item android:title="Ayarlar">
+        <menu>
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/home"
+                android:title="Ana Sayfa" />
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/contact"
+                android:title="İletişim" />
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/exit"
+                android:title="Çıkış" />
+        </menu>
+    </item>
+
+</menu>
